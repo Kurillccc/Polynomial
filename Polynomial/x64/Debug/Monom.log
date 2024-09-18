@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Desktop\Полином\Monom\Monom.h(47,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\Desktop\Полином\Monom\Monom.h(114,24): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\Desktop\Полином\Monom\Polynom.h(17,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  Monom.vcxproj -> D:\Desktop\Полином\x64\Debug\Monom.exe

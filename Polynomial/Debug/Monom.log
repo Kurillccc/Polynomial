@@ -1,0 +1,4 @@
+﻿  MonomLaba.cpp
+C:\Users\Sozin\source\repos\Monom\Monom\Monom.h(42,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sozin\source\repos\Monom\Monom\Monom.h(74,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Monom.vcxproj -> C:\Users\Sozin\source\repos\Monom\Debug\MonomLaba.exe
